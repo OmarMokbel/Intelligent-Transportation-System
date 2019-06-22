@@ -9,3 +9,5 @@ Download the Arduino Code and run it on Arduino IDE. Then download the JS & HTML
 ### Prerequisites
 
 VS Code or any alike software. Arduino IDE
+
+![alt text](https://raw.githubusercontent.com/OmarMokbel/ITS/user2.PNG)
