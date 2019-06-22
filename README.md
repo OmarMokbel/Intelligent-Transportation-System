@@ -10,4 +10,13 @@ Download the Arduino Code and run it on Arduino IDE. Then download the JS & HTML
 
 VS Code or any alike software. Arduino IDE
 
-![alt text](https://github.com/OmarMokbel/ITS/blob/master/user2.PNG)
+
+
+![Circuit Sketch](https://github.com/OmarMokbel/ITS/blob/master/pics/fritzing.png)
+![PN532 RFID Module & Arduino UNO Rev3 connections](https://github.com/OmarMokbel/ITS/blob/master/pics/pntoard.PNG)
+![Connection1](https://github.com/OmarMokbel/ITS/blob/master/pics/hardware2.jpeg)
+![Connection2](https://github.com/OmarMokbel/ITS/blob/master/pics/hardware.jpeg)
+![RFID Tags](https://github.com/OmarMokbel/ITS/blob/master/pics/car.jpeg)
+![Prototype](https://github.com/OmarMokbel/ITS/blob/master/pics/prototype.jpeg)
+![User webpage1](https://github.com/OmarMokbel/ITS/blob/master/pics/user.PNG)
+![User webpage2](https://github.com/OmarMokbel/ITS/blob/master/pics/user2.PNG)
