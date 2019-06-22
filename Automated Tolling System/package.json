@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.3",
+    "cross-spawn": "^6.0.5",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "jQuery": "^1.7.4",
+    "johnny-five": "^1.0.0",
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.3.4",
+    "puppeteer": "^1.16.0",
+    "python-shell": "^1.0.7",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "serialport": "^7.1.4"
+  }
+}
