@@ -10,6 +10,7 @@ Download the Arduino Code and run it on Arduino IDE. Then download the JS & HTML
 
 VS Code or any alike software. Arduino IDE
 
+### Check my project at work in this video https://www.youtube.com/watch?v=dS4wEpCSrFc
 
 
 ![Circuit Sketch](https://github.com/OmarMokbel/ITS/blob/master/pics/fritzing.png)
